@@ -1,0 +1,6 @@
+How to RUN ?
+* Run composer require server --dev
+
+How to TEST ? 
+  * Write test cases in the tests/ folder
+  * Run php bin/phpunit
